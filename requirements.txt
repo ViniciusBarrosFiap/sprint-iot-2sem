@@ -1,17 +1,7 @@
-# Processamento de imagem
-opencv-python==4.10.0.84
-
-# Face detection (Mac ARM)
 mediapipe==0.10.14
-
-# Emoções (DeepFace usa TensorFlow + Keras)
-deepface==0.0.93
-
-# Manipulação de dados
+deepface==0.40.1
+opencv-python==4.10.0.84
 pandas==2.2.2
-
-# Dependências corretas para Mac ARM
-protobuf==4.25.3
-tensorflow-macos==2.16.1
-tensorflow-metal==1.1.0
-tf-keras==2.16.0
+matplotlib==3.8.4
+numpy==1.26.4
+tensorflow==2.13.0

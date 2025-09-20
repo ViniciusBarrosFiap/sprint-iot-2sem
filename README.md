@@ -31,8 +31,8 @@ Detectar expressões faciais e classificar emoções ao longo do tempo de um ví
 ### 1. Clone o repositório ou baixe os arquivos
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repo.git
-cd seu-repo
+git clone https://github.com/ViniciusBarrosFiap/sprint-iot-2sem.git
+cd sprint-iot-2sem
 ```
 
 ### 2. Crie o ambiente virtual (.venv)
@@ -73,7 +73,7 @@ python main.py
 
 ## 📦 Arquivos Gerados
 
-- `emocoes_configB.csv`: Tabela com os dados de emoções detectadas
+- `emocoes_config.csv`: Tabela com os dados de emoções detectadas
 - `comparacao_emocoes.png`: Gráfico de barras das emoções
 - `timeline_emocoes.png`: Linha do tempo emocional
 
