@@ -8,6 +8,14 @@ Detectar expressões faciais e classificar emoções ao longo do tempo de um ví
 
 ---
 
+## Video demonstrativo
+
+```bash
+https://www.youtube.com/watch?v=f5iuoOQslkM
+```
+
+---
+
 ## 👥 Participantes
 
 - **RM99499** – Guilherme Monteiro Espim  
