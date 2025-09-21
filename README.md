@@ -11,7 +11,7 @@ Detectar expressões faciais e classificar emoções ao longo do tempo de um ví
 ## Video demonstrativo
 
 ```bash
-https://www.youtube.com/watch?v=f5iuoOQslkM
+https://www.youtube.com/watch?v=RcnFGs00a7U
 ```
 
 ---
